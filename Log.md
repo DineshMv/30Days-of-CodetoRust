@@ -9,25 +9,31 @@
 
 **Link to work:** 
 1. [My first rust program](http://www.example.com)
-2.
+
+
 
 ### Day 2: June 21, 2017
 ##### (delete me or comment me out)
 
 **Today's Progress**: 
 
+
 **Thoughts**: 
+
 
 **Link(s) to work**: 
 1. 
-2.
+
+
 
 ### Day 3: June 22, 2017
 
 **Today's Progress**: 
 
+
 **Thoughts** 
+
 
 **Link(s) to work**
 1. 
-2.
+
